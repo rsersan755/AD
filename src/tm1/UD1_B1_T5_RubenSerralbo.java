@@ -8,13 +8,7 @@ public class UD1_B1_T5_RubenSerralbo {
 
 			File f = new File("NUEVODIR");
 			
-			try {
-				
-				
-			} catch (IOException ioe) {
-				System.out.println("Error: " + ioe.getMessage());
-				ioe.printStackTrace();
-			}
+			
 		
 		
 		
